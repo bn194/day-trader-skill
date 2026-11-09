@@ -1,0 +1,28 @@
+{
+  "created_by": "trader-exit",
+  "symbol": "PLTR",
+  "side": "buy",
+  "date": "2026-11-09",
+  "setup": "orb",
+  "entry": 167.77,
+  "entry_time": "9:50 AM",
+  "entry_bar": 3,
+  "interval": "5m",
+  "opening_range": {
+    "high": 166.35,
+    "low": 161.05,
+    "minutes": 15
+  },
+  "stop": 163.7,
+  "stop_rule": "or_mid",
+  "stop_label": "opening-range midpoint",
+  "target": 175.91,
+  "target_r": 2.0,
+  "target_label": "2R (two times the risk)",
+  "risk_per_share": 4.07,
+  "reward_risk": 2.0,
+  "flat_by": "15:55",
+  "stop_detail": "($166.35 + $161.05) / 2 = $163.7",
+  "created_at": "2026-11-09T15:03:30Z",
+  "note": "A stop is a plan, not a guarantee: a gap or a fast market can fill past it."
+}
